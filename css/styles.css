@@ -52,9 +52,9 @@
         .img-portaflio{
             margin: 20px;
             display: inline;
-            height: 48px;
-            width: 48px;
-            border-radius: 20px;
+            height: 40px;
+            width: 40px;
+            border-radius: 5px;
         }
 
         .project {
@@ -86,7 +86,7 @@
             text-align: center;
             margin-left: 50px;
             margin-right: 50px;
-            padding-bottom: 10px;
+            padding-bottom: 0px;
             font-size: 20px;
         }
         .title{
@@ -98,7 +98,8 @@
         .about{
             background-color: #20baf7;
             color: white;
-            padding: 10px;
+            padding: 0px;
+            width: 100%;
             
         }
         
