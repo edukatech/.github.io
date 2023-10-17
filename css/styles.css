@@ -98,9 +98,7 @@
         .about{
             background-color: #20baf7;
             color: white;
-            padding: 0px;
-            width: 100%;
-            
+            padding: 5px;
         }
         
         footer {
@@ -109,5 +107,20 @@
             text-align: center;
             padding: 10px;
         }
+        .flex-container {
+            display: flex;
+            height: 200px;
+            background-color: #00A4BD;
+          }
+          
+          .flex-container > div {
+            background-color: #EAF0F6;
+            width: 90px;
+            margin: 10px;
+            text-align: center;
+            line-height: 50px;
+            font-size: 60px;
+            flex: 1 1 200px;
+          }
         
        
